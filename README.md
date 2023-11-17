@@ -1,9 +1,10 @@
-# Fresh project
+# My personal site
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+**[thgr4j.deno.dev](https://thgr4j.deno.dev/)**  
 
-### Usage
+Built with [Deno Fresh](https://fresh.deno.dev)
+
+## Usage
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
